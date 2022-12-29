@@ -32,6 +32,9 @@ Fill up the column “Manually Written Question_in_Hindi_Script” using the fol
 
 The authors discussed with the doctors and patients to develop the annotation guidelines. 
 The datasets are annotated by medical graduate doctors and domain experts with prior experience in these tasks. The annotators are very reliable as earlier works of these annotators were also published in reputed international conferences and journals. We select three annotators per language after several discussions and conditions of fulfilling many criterias like annotators should have native proficiency in their language of annotation, domain knowledge expertise along with a good working proficiency in English. Annotators are experienced in similar tasks earlier also [with earlier international conference and journal publications and datasets are public] so the annotators are reliable in these annotation tasks. Initial labelling is done by two annotators and any annotation discrepancy is checked and resolved by the third annotator after discussing with two others. So, the final judgment is based on three annotators’ discussion. We shall clarify it more in the revised version of the paper. Annotators took help of Bing Translator API to formulate the queries on their own regional languages manually. Annotators are also asked to annotate the entities and their types (in their respective native languages) for each query being corrected with the idea of what common people generally ask healthcare queries to doctors. The annotators exchanged their annotated data to detect any discrepancy and discussed with the third annotator for resolution. We report the inter-annotator-agreement Cohen kappa.
+
+NOTE: We shall add the complete guideline after acceptance of the paper.
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
