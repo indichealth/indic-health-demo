@@ -6,6 +6,8 @@ This repository represents the paper "Intent Identification and Entity Extractio
 
 ![Demo](./screenshots/english_query_1.png)
 
+(You can find responses for example queries in 'screenshots' folder)
+
 
 **Note**:
 * Due to space constraints, the demo is currently live only for English and Hindi Languages. We will make it available for other languages once the paper gets accepted.
