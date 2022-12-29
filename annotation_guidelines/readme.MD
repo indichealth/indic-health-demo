@@ -1,3 +1,3 @@
 ## FLOW CHART
 
-![alt text](./flow_chart.png)
+![alt text](./flowchart.png)
