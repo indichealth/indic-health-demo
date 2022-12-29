@@ -2,7 +2,7 @@
 
 This repository represents the paper "Intent Identification and Entity Extraction for Healthcare Queries in Indic Languages", submitted in EACL 2023.
 
-**[TRY THE DEMO HERE! - Hosted on HUGGING FACE SPACES](https://huggingface.co/spaces/indichealth/indic-health-demo)**
+### **[TRY THE DEMO HERE! - Hosted on HUGGING FACE SPACES](https://huggingface.co/spaces/indichealth/indic-health-demo)**
 
 
 ![Demo](./screenshots/english_query_1.png)
