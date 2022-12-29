@@ -6,7 +6,7 @@ This repository represents the paper "Intent Identification and Entity Extractio
 
 ![Demo](./screenshots/english_query_1.png)
 
-(You can find responses for example queries in 'screenshots' folder)
+(You can find responses for some example queries in 'screenshots' folder)
 
 
 **Note**:
