@@ -12,6 +12,17 @@ This repository represents the paper "Intent Identification and Entity Extractio
 
 (You can find responses for some example queries in the 'screenshots' folder)
 
+# Acknowledgement - Data Annotators 
+* Ankan Mullick, Dept of Computer Science and Engineering, IIT Kharagpur
+* Ishani Mondal, Dept of Computer Science and Engineering, IIT Kharagpur
+* Sourjyadip Ray, Dept of Computer Science and Engineering, IIT Kharagpur
+* Raghav R, Dept of Computer Science and Engineering, IIT Kharagpur
+* G Sai Chaitanya, Dept of Computer Science and Engineering, IIT Kharagpur
+* Maj Rakshit Sharma, Dept of Computer Science and Engineering, IIT Kharagpur
+* Shraddha Kodavade, Applied Statistics and Analytics, NSOMASA, NMIMS
+* Satej Raste, Applied Statistics and Analytics, NSOMASA, NMIMS
+* Krutika Ahire, Applied Statistics and Analytics, NSOMASA, NMIMS
+
 
 
          
