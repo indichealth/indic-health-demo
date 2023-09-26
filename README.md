@@ -12,7 +12,7 @@ This repository represents the paper "Intent Identification and Entity Extractio
 
 (You can find responses for some example queries in the 'screenshots' folder)
 
-# Acknowledgement - Data Annotators 
+## Acknowledgement - Data Annotators 
 * Ankan Mullick, Dept of Computer Science and Engineering, IIT Kharagpur
 * Ishani Mondal, Dept of Computer Science and Engineering, IIT Kharagpur
 * Sourjyadip Ray, Dept of Computer Science and Engineering, IIT Kharagpur
